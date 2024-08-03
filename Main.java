@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Run Java Program");
         Date date = new Date();
         System.out.println("My name is Shubham and  current date & time is " + date.toLocaleString());
+        System.out.println("I am software developer!");
 
         // output
         // Run Java Program
