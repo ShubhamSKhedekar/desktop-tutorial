@@ -1,1 +1,1 @@
-console("Hello NodeFile.js is running!!")
+console.log("Hello NodeFile.js is running!!")
