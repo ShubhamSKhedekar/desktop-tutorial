@@ -6,6 +6,7 @@ public class Main {
         Date date = new Date();
         System.out.println("My name is Shubham and  current date & time is " + date.toLocaleString());
         System.out.println("I am software developer!");
+         System.out.println("AUTO-RUN WITH HELP OF JENKINS");
 
         // output
         // Run Java Program
